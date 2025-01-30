@@ -1,0 +1,17 @@
+.restro-card{
+    display: flex;
+    width: 20%;
+    justify-content:space-around ;
+    width: 250px;
+}
+.main-card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.button-div{
+    display: flex;
+    margin-top: 10px;
+    width: 70%;
+    justify-content: space-evenly;
+}
